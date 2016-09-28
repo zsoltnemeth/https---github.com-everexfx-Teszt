@@ -1,0 +1,1 @@
+  ApplicationUnderTest.Launch(@"C:\Everex Financial Solutions\EFSTrader\EverexTraderBeta\EverexTraderBeta\bin\Debug\EverexTrader.GUI.exe");
